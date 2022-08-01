@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DerrickNasio.
-- 👀 I’m interested in numerical ODE solving.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on a Runge-Kutta project.
+- 👀 I’m interested in numerical analysis.
+- 🌱 I’m currently learning C and Kotlin.
+<!--- 💞️ I’m looking to collaborate on a Runge-Kutta project. --->
 <!--- 📫 How to reach me ... --->
 
 <!---
