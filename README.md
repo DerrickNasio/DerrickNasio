@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerrickNasio.
 - 👀 I’m interested in numerical analysis.
-- 🌱 I’m currently learning C and Kotlin.
+- 🌱 I’m currently learning C.
 <!--- 💞️ I’m looking to collaborate on a Runge-Kutta project. --->
 <!--- 📫 How to reach me ... --->
 
